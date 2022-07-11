@@ -88,3 +88,9 @@ kettle位置参数、命名参数、变量
 orical的逻辑结构包括表空间（tablespace）、段(segment)、数据块(data block)、模式对象(schema object)
 #### 下午
 从第三方库表经过DI(KETTLE)全量抽取到stg层，写sql、查数据字典
+
+### 2022.7.11 第十二天
+#### 上午
+继续完成从第三方库表经DI(KETTLE)全量抽取到stg层
+#### 下午
+从hrp数据中心报表取数据至stg层
