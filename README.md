@@ -112,3 +112,9 @@ orical的逻辑结构包括表空间（tablespace）、段(segment)、数据块(
 自学Hadoop
 #### 下午
 自学Hadoop
+
+### 2022.7.15 第十六天
+#### 上午
+自学Hadoop
+#### 下午
+完成资产分析指标卡 （在kettle中记录来源表和来源字段）
