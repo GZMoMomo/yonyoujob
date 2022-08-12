@@ -167,7 +167,7 @@ kettle把转换都串起来
 ### 2022.7.27 第二十四天
 同下
 ### 2022.7.28 第二十五天
-开发文件传输系统（vue+springboot）
+开发文件传输系统（vue+springboot）零拷贝技术 https://mp.weixin.qq.com/s/W2vuLNtC9YZQUz1pH3eDpw
 
 # 大亚湾医共体信息平台
 2022.7.29~2022.8.3  
